@@ -7,9 +7,6 @@
         <mxCell id="qu7ffA8SocWDGMocoA9K-1" value="管理员业务流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1557" y="1007" width="791" height="637" as="geometry" />
         </mxCell>
-        <mxCell id="qu7ffA8SocWDGMocoA9K-2" value="普通用户业务流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="580" width="1507" height="1064" as="geometry" />
-        </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-3" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1242" y="310" width="56" height="34" as="geometry" />
         </mxCell>

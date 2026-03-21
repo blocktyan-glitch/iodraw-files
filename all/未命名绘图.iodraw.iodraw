@@ -8,13 +8,13 @@
           <mxGeometry x="471.5" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-4" value="用户登录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="455" y="380" width="113" height="60" as="geometry" />
+          <mxGeometry x="460" y="380" width="108" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-5" value="进入系统首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="433.5" y="490" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-7" value="选择操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="455" y="585" width="113" height="113" as="geometry" />
+          <mxGeometry x="455" y="585" width="113" height="65" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-8" value="填写物品信息&#xa;(名称/地点/描述/图片)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="65" y="890" width="225" height="67" as="geometry" />

@@ -43,7 +43,7 @@
         <mxCell id="qu7ffA8SocWDGMocoA9K-17" value="系统进行AI智能匹配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="940" width="202" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="qu7ffA8SocWDGMocoA9K-18" value="发送匹配通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qu7ffA8SocWDGMocoA9K-18" value="找到相似内容发送匹配通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="143" y="1030" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-19" value="用户查看通知中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

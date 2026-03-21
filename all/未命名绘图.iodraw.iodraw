@@ -25,6 +25,11 @@
         <mxCell id="qu7ffA8SocWDGMocoA9K-9" value="提交保存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="116" y="1032" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="qu7ffA8SocWDGMocoA9K-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qu7ffA8SocWDGMocoA9K-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="178.090909090909" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-10" value="系统生成特征向量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="1202" width="156" height="49" as="geometry" />
         </mxCell>

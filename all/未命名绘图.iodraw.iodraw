@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="875" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2188" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -56,16 +56,16 @@
           <mxGeometry x="84" y="1570" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-20" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1100" y="1448" width="124" height="49" as="geometry" />
+          <mxGeometry x="1086" y="1320" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-21" value="管理自己发布的信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="814" y="1570" width="204" height="49" as="geometry" />
+          <mxGeometry x="800" y="1442" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-22" value="查看认领申请状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1068" y="1570" width="188" height="49" as="geometry" />
+          <mxGeometry x="1054" y="1442" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-23" value="修改个人信息/密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1306" y="1570" width="196" height="49" as="geometry" />
+          <mxGeometry x="1292" y="1442" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-24" value="选择管理操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1860" y="1154" width="145" height="145" as="geometry" />
@@ -201,7 +201,7 @@
         <mxCell id="qu7ffA8SocWDGMocoA9K-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qu7ffA8SocWDGMocoA9K-20" target="qu7ffA8SocWDGMocoA9K-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="916" y="1533" />
+              <mxPoint x="902" y="1405" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -213,7 +213,7 @@
         <mxCell id="qu7ffA8SocWDGMocoA9K-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qu7ffA8SocWDGMocoA9K-20" target="qu7ffA8SocWDGMocoA9K-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1404" y="1533" />
+              <mxPoint x="1390" y="1405" />
             </Array>
           </mxGeometry>
         </mxCell>

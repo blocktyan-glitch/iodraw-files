@@ -193,7 +193,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qu7ffA8SocWDGMocoA9K-133" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qu7ffA8SocWDGMocoA9K-49">
+        <mxCell id="qu7ffA8SocWDGMocoA9K-133" value="个人信息管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qu7ffA8SocWDGMocoA9K-49">
           <mxGeometry x="-0.2489" y="-121" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

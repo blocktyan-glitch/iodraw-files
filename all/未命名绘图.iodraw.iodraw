@@ -17,7 +17,7 @@
           <mxGeometry x="455" y="585" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-8" value="填写物品信息&#xa;(名称/地点/描述/图片)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="760" width="200" height="47" as="geometry" />
+          <mxGeometry x="180" y="758" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-9" value="提交保存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="116" y="1032" width="124" height="49" as="geometry" />

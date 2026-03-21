@@ -26,19 +26,19 @@
           <mxGeometry x="427" y="758" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-12" value="点击认领" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="447" y="1250" width="156" height="49" as="geometry" />
+          <mxGeometry x="447" y="980" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-13" value="填写特征描述/上传证明" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="411" y="1348" width="228" height="49" as="geometry" />
+          <mxGeometry x="411" y="1078" width="228" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-14" value="等待发布者审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="439" y="1438" width="172" height="49" as="geometry" />
+          <mxGeometry x="439" y="1168" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-15" value="解锁发布者联系方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="596" y="1550" width="204" height="49" as="geometry" />
+          <mxGeometry x="596" y="1280" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-16" value="可修改后重新提交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="1550" width="188" height="49" as="geometry" />
+          <mxGeometry x="390" y="1280" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-17" value="系统进行AI智能匹配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="940" width="202" height="49" as="geometry" />
@@ -119,14 +119,14 @@
         <mxCell id="qu7ffA8SocWDGMocoA9K-44" value="审核通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qu7ffA8SocWDGMocoA9K-14" target="qu7ffA8SocWDGMocoA9K-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="1520" />
+              <mxPoint x="680" y="1250" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-45" value="审核驳回" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=0.99;entryX=0.3;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qu7ffA8SocWDGMocoA9K-14" target="qu7ffA8SocWDGMocoA9K-16">
           <mxGeometry x="-0.1001" y="10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="1520" />
+              <mxPoint x="430" y="1250" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -203,7 +203,7 @@
         <mxCell id="qu7ffA8SocWDGMocoA9K-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=-0.01;entryX=0.47;entryY=0.99;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qu7ffA8SocWDGMocoA9K-16" target="qu7ffA8SocWDGMocoA9K-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="1520" />
+              <mxPoint x="530" y="1250" />
             </Array>
           </mxGeometry>
         </mxCell>

@@ -11,7 +11,7 @@
           <mxGeometry x="455.5" y="380" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-5" value="进入系统首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="434" y="520" width="156" height="49" as="geometry" />
+          <mxGeometry x="433.5" y="490" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-7" value="选择操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="455" y="704" width="113" height="113" as="geometry" />
@@ -72,7 +72,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qu7ffA8SocWDGMocoA9K-34" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qu7ffA8SocWDGMocoA9K-4" target="qu7ffA8SocWDGMocoA9K-5">
+        <mxCell id="qu7ffA8SocWDGMocoA9K-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qu7ffA8SocWDGMocoA9K-4" target="qu7ffA8SocWDGMocoA9K-5">
           <mxGeometry x="-0.0103" y="7" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="512" y="544" />

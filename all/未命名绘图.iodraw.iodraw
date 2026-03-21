@@ -83,9 +83,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-37" value="发布信息" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qu7ffA8SocWDGMocoA9K-7" target="qu7ffA8SocWDGMocoA9K-8">
-          <mxGeometry x="-0.0316" y="16" relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="-1" as="offset" />
+          <mxGeometry x="-0.0227" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="620" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qu7ffA8SocWDGMocoA9K-8" target="qu7ffA8SocWDGMocoA9K-10">

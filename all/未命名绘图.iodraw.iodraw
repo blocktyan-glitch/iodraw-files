@@ -26,7 +26,7 @@
           <mxGeometry x="100" y="1130" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-11" value="查看失物/招领列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="427" y="1032" width="196" height="49" as="geometry" />
+          <mxGeometry x="427" y="840" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-12" value="点击我要认领" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="447" y="1202" width="156" height="49" as="geometry" />

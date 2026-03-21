@@ -35,7 +35,7 @@
           <mxGeometry x="429" y="1189" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-15" value="解锁发布者联系方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="586" y="1301" width="204" height="49" as="geometry" />
+          <mxGeometry x="586" y="1301" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-16" value="可修改后重新提交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="1301" width="188" height="49" as="geometry" />

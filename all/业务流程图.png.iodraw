@@ -20,7 +20,7 @@
           <mxGeometry x="163" y="650" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-10" value="系统生成特征向量" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="183" y="762" width="156" height="49" as="geometry" />
+          <mxGeometry x="183" y="730" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-11" value="查看失物/招领列表" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="415" y="840" width="196" height="49" as="geometry" />
@@ -41,10 +41,10 @@
           <mxGeometry x="380" y="1301" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-17" value="系统进行AI智能匹配" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="852" width="202" height="49" as="geometry" />
+          <mxGeometry x="160" y="810" width="202" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-18" value="发送匹配通知" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="183" y="942" width="156" height="49" as="geometry" />
+          <mxGeometry x="183" y="889" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-19" value="用户查看通知中心" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="167" y="1042" width="188" height="49" as="geometry" />
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-37" value="发布信息" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qu7ffA8SocWDGMocoA9K-7" target="qu7ffA8SocWDGMocoA9K-8" edge="1">
-          <mxGeometry x="-0.0227" y="10" relative="1" as="geometry">
+          <mxGeometry x="-0.1445" y="1" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="620" />
             </Array>

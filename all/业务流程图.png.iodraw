@@ -41,10 +41,10 @@
           <mxGeometry x="380" y="1301" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-17" value="系统进行AI智能匹配" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="810" width="202" height="49" as="geometry" />
+          <mxGeometry x="160" y="820" width="202" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-18" value="发送匹配通知" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="183" y="889" width="156" height="49" as="geometry" />
+          <mxGeometry x="183" y="910" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-19" value="用户查看通知中心" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="167" y="1001" width="188" height="49" as="geometry" />
@@ -182,10 +182,7 @@
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qu7ffA8SocWDGMocoA9K-19" target="qu7ffA8SocWDGMocoA9K-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="1060" />
-              <mxPoint x="400" y="1030" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="350" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>

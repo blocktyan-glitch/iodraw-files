@@ -38,7 +38,7 @@
           <mxGeometry x="586" y="1260" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-16" value="可修改后重新提交" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="370" y="1260" width="188" height="49" as="geometry" />
+          <mxGeometry x="310" y="1260" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-17" value="系统进行AI智能匹配" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="830" width="202" height="49" as="geometry" />
@@ -123,7 +123,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qu7ffA8SocWDGMocoA9K-45" value="审核驳回" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=0.99;entryX=0.3;entryY=-0.01;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qu7ffA8SocWDGMocoA9K-14" edge="1">
+        <mxCell id="qu7ffA8SocWDGMocoA9K-45" value="审核驳回" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.3;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qu7ffA8SocWDGMocoA9K-14" edge="1">
           <mxGeometry x="-0.1001" y="10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="1271" />

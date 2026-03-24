@@ -17,7 +17,7 @@
           <mxGeometry x="455" y="585" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-8" value="填写物品信息&#xa;(名称/地点/描述/图片)" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="163" y="670" width="196" height="49" as="geometry" />
+          <mxGeometry x="163" y="650" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qu7ffA8SocWDGMocoA9K-10" value="系统生成特征向量" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="183" y="762" width="156" height="49" as="geometry" />

@@ -62,8 +62,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R8QhNwow0_qQHKIPXrSj-17" value="表现层 (前端: Vue.js + Element Plus)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="83" width="254" height="30" as="geometry" />
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;表现层 (前端: Vue.js + Element Plus)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="282" y="70" width="254" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -8,7 +8,7 @@
           <mxGeometry x="164" y="580" width="197" height="122" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="150" width="480" height="297" as="geometry" />
+          <mxGeometry x="20" y="150" width="490" height="240" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="22" y="22.5" width="481" height="90" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="135" y="240" width="250" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-8" value="持久层 (MyBatis-Plus)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="156" y="433" width="213" height="49" as="geometry" />
+          <mxGeometry x="153.5" y="320" width="213" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-9" value="系统核心数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="199" y="605" width="127" height="72" as="geometry" />

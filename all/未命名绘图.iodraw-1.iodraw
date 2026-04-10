@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-14" value="SQL 数据读写持久化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-8" target="R8QhNwow0_qQHKIPXrSj-9">
-          <mxGeometry x="-0.1565" relative="1" as="geometry">
+          <mxGeometry x="-0.2346" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -68,6 +68,9 @@
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;业务逻辑层 (后端: Spring Boot)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="339" y="222" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="379" y="498" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

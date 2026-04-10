@@ -8,7 +8,7 @@
           <mxGeometry x="309" y="497.5" width="200" height="112" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="171" y="190" width="491" height="242.5" as="geometry" />
+          <mxGeometry x="171" y="190" width="479" height="242.5" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="171" y="80" width="479" height="80" as="geometry" />
@@ -20,13 +20,13 @@
           <mxGeometry x="439" y="112.5" width="185" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-6" value="控制层 (API接口响应)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="303.5" y="260" width="211" height="35" as="geometry" />
+          <mxGeometry x="303.5" y="230" width="211" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-7" value="服务层 (核心业务与AI匹配)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="284" y="330" width="250" height="49" as="geometry" />
+          <mxGeometry x="284" y="300" width="250" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-8" value="持久层 (MyBatis-Plus)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="302.5" y="400" width="213" height="49" as="geometry" />
+          <mxGeometry x="302.5" y="370" width="213" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-9" value="系统核心数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="527.5" width="123" height="52.5" as="geometry" />

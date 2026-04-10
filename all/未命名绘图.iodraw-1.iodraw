@@ -71,7 +71,7 @@
           <mxGeometry x="339" y="222" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据存储层 (MySQL)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="497.5" width="141" height="30" as="geometry" />
+          <mxGeometry x="90" y="555" width="141" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

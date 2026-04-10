@@ -20,7 +20,7 @@
           <mxGeometry x="290" y="45" width="185" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-6" value="控制层 (API接口响应)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="156" y="190" width="211" height="49" as="geometry" />
+          <mxGeometry x="154.5" y="170" width="211" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-7" value="服务层 (核心业务与AI匹配)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="136.5" y="340" width="250" height="49" as="geometry" />

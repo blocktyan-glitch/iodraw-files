@@ -10,8 +10,8 @@
         <mxCell id="R8QhNwow0_qQHKIPXrSj-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="170" width="480" height="297" as="geometry" />
         </mxCell>
-        <mxCell id="R8QhNwow0_qQHKIPXrSj-3" value="表现层 (前端: Vue.js + Element Plus)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="481" height="117" as="geometry" />
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="481" height="100" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-4" value="用户端界面 (主页/发布/认领)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="45" width="185" height="67" as="geometry" />

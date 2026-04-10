@@ -4,6 +4,62 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-1" value="数据存储层 (MySQL)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="164" y="580" width="197" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-2" value="业务逻辑层 (后端: Spring Boot)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="47" y="210" width="421" height="297" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-3" value="表现层 (前端: Vue.js + Element Plus)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="481" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-4" value="用户端界面 (主页/发布/认领)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="45" width="185" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-5" value="管理端界面 (用户/物品管理)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="45" width="176" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-6" value="控制层 (API接口响应)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="157" y="235" width="211" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-7" value="服务层 (核心业务与AI匹配)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="137" y="334" width="250" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-8" value="持久层 (MyBatis-Plus)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="156" y="433" width="213" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-9" value="系统核心数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="199" y="605" width="127" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-6" target="R8QhNwow0_qQHKIPXrSj-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-7" target="R8QhNwow0_qQHKIPXrSj-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-12" value="HTTP / JSON 数据交互" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-4" target="R8QhNwow0_qQHKIPXrSj-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="147" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-13" value="HTTP / JSON 数据交互" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-5" target="R8QhNwow0_qQHKIPXrSj-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="378" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-14" value="SQL 数据读写持久化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-8" target="R8QhNwow0_qQHKIPXrSj-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

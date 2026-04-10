@@ -65,7 +65,7 @@
         <mxCell id="R8QhNwow0_qQHKIPXrSj-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;表现层 (前端: Vue.js + Element Plus)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="287" y="80" width="254" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R8QhNwow0_qQHKIPXrSj-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;业务逻辑层 (后端: Spring Boot)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="218" width="60" height="30" as="geometry" />
         </mxCell>
       </root>

@@ -104,7 +104,7 @@
           <mxGeometry x="380" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hIabTkBtSbZMI-Zw5DWN-48" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="500" width="60" height="30" as="geometry" />
+          <mxGeometry x="450" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hIabTkBtSbZMI-Zw5DWN-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hIabTkBtSbZMI-Zw5DWN-43" target="hIabTkBtSbZMI-Zw5DWN-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -167,13 +167,13 @@
           <mxGeometry x="410" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hIabTkBtSbZMI-Zw5DWN-63" value="属性类别" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="450" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hIabTkBtSbZMI-Zw5DWN-64" value="分类id" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="510" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hIabTkBtSbZMI-Zw5DWN-65" value="物品名称" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hIabTkBtSbZMI-Zw5DWN-66" value="物品描述" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="350" width="60" height="30" as="geometry" />

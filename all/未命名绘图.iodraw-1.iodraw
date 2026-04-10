@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-12" value="HTTP / JSON 数据交互" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-4" target="R8QhNwow0_qQHKIPXrSj-6">
-          <mxGeometry x="-0.4069" y="7" relative="1" as="geometry">
+          <mxGeometry x="-0.5524" y="3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="230" />
             </Array>
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-13" value="HTTP / JSON 数据交互" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-5" target="R8QhNwow0_qQHKIPXrSj-6">
-          <mxGeometry x="-0.4501" y="-6" relative="1" as="geometry">
+          <mxGeometry x="-0.5881" y="-3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="230" />
             </Array>
@@ -68,7 +68,7 @@
           <mxGeometry x="287" y="80" width="254" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;业务逻辑层 (后端: Spring Boot)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="334" y="200" width="150" height="30" as="geometry" />
+          <mxGeometry x="334" y="195" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据存储层 (MySQL)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="497.5" width="141" height="30" as="geometry" />

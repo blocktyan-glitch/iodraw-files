@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="R8QhNwow0_qQHKIPXrSj-1" value="数据存储层 (MySQL)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="312" y="497.5" width="198" height="112.5" as="geometry" />
+          <mxGeometry x="310" y="497.5" width="198" height="112.5" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="169" y="217.5" width="491" height="242.5" as="geometry" />
@@ -57,7 +57,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R8QhNwow0_qQHKIPXrSj-14" value="SQL 数据读写持久化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-8" target="R8QhNwow0_qQHKIPXrSj-9">
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-14" value="SQL 数据读写持久化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-8" target="R8QhNwow0_qQHKIPXrSj-19">
           <mxGeometry x="-0.2346" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />

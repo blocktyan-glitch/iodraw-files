@@ -47,9 +47,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-12" value="HTTP / JSON 数据交互" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-4" target="R8QhNwow0_qQHKIPXrSj-6">
-          <mxGeometry x="-0.243" y="11" relative="1" as="geometry">
+          <mxGeometry x="-0.1676" y="9" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="170" />
+              <mxPoint x="170" y="160" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -57,7 +57,7 @@
         <mxCell id="R8QhNwow0_qQHKIPXrSj-13" value="HTTP / JSON 数据交互" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-5" target="R8QhNwow0_qQHKIPXrSj-6">
           <mxGeometry x="-0.3976" y="-8" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="378" y="170" />
+              <mxPoint x="370" y="160" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>

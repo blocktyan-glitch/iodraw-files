@@ -50,10 +50,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-13" value="HTTP / JSON 数据交互" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-5" target="R8QhNwow0_qQHKIPXrSj-6">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.3976" y="-8" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="378" y="210" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-14" value="SQL 数据读写持久化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-8" target="R8QhNwow0_qQHKIPXrSj-9">

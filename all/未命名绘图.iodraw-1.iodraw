@@ -14,10 +14,10 @@
           <mxGeometry x="20" y="20" width="481" height="100" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-4" value="用户端界面 (主页/发布/认领)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="45" width="185" height="67" as="geometry" />
+          <mxGeometry x="55" y="45" width="185" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-5" value="管理端界面 (用户/物品管理)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="45" width="176" height="67" as="geometry" />
+          <mxGeometry x="290" y="45" width="185" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-6" value="控制层 (API接口响应)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="156" y="190" width="211" height="49" as="geometry" />

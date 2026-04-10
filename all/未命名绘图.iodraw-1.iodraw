@@ -23,7 +23,7 @@
           <mxGeometry x="303.5" y="230" width="211" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-7" value="服务层 (核心业务与AI匹配)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="284" y="300" width="250" height="49" as="geometry" />
+          <mxGeometry x="284" y="280" width="250" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-8" value="持久层 (MyBatis-Plus)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="302.5" y="370" width="213" height="49" as="geometry" />
@@ -49,11 +49,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R8QhNwow0_qQHKIPXrSj-13" value="HTTP / JSON 数据交互" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-5" target="R8QhNwow0_qQHKIPXrSj-6">
+        <mxCell id="R8QhNwow0_qQHKIPXrSj-13" value="HTTP / JSON 数据交互" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.75;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="R8QhNwow0_qQHKIPXrSj-6">
           <mxGeometry x="-0.438" y="-5" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="210" />
+              <mxPoint x="520" y="206" />
             </Array>
+            <mxPoint x="531.5" y="143.5" as="sourcePoint" />
+            <mxPoint x="465.97" y="226" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

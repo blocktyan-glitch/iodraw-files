@@ -11,10 +11,10 @@
           <mxGeometry x="169" y="217.5" width="491" height="242.5" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="171" y="80" width="479" height="100" as="geometry" />
+          <mxGeometry x="171" y="80" width="479" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-4" value="用户端界面 (主页/发布/认领)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="204" y="112.5" width="185" height="45" as="geometry" />
+          <mxGeometry x="204" y="112.5" width="185" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-5" value="管理端界面 (用户/物品管理)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="439" y="112.5" width="185" height="35" as="geometry" />

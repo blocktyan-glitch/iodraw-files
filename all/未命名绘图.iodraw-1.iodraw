@@ -11,7 +11,7 @@
           <mxGeometry x="169" y="217.5" width="490" height="240" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="171" y="70" width="479" height="110" as="geometry" />
+          <mxGeometry x="171" y="80" width="479" height="100" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-4" value="用户端界面 (主页/发布/认领)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="204" y="112.5" width="185" height="45" as="geometry" />
@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;表现层 (前端: Vue.js + Element Plus)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="282" y="70" width="254" height="30" as="geometry" />
+          <mxGeometry x="287" y="70" width="254" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

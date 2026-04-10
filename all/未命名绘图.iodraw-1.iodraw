@@ -44,13 +44,13 @@
         <mxCell id="R8QhNwow0_qQHKIPXrSj-12" value="HTTP / JSON 数据交互" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-4" target="R8QhNwow0_qQHKIPXrSj-6">
           <mxGeometry x="-0.5524" y="3" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="230" />
+              <mxPoint x="290" y="210" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-13" value="HTTP / JSON 数据交互" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="R8QhNwow0_qQHKIPXrSj-5" target="R8QhNwow0_qQHKIPXrSj-6">
-          <mxGeometry x="-0.5881" y="-3" relative="1" as="geometry">
+          <mxGeometry x="-0.438" y="-5" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="210" />
             </Array>

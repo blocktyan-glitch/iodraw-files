@@ -20,10 +20,10 @@
           <mxGeometry x="290" y="45" width="176" height="67" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-6" value="控制层 (API接口响应)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="155" y="200" width="211" height="49" as="geometry" />
+          <mxGeometry x="156" y="190" width="211" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-7" value="服务层 (核心业务与AI匹配)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="137" y="334" width="250" height="49" as="geometry" />
+          <mxGeometry x="137.5" y="270" width="250" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R8QhNwow0_qQHKIPXrSj-8" value="持久层 (MyBatis-Plus)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="156" y="433" width="213" height="49" as="geometry" />

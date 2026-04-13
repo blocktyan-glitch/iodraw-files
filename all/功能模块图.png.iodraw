@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="yXC5z1wtC_v4uyiX1Zn-">
-    <mxGraphModel dx="514" dy="259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="247" dy="125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,9 +28,10 @@
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYe7YNyif9_kxQ6Mzg_p-10" target="LYe7YNyif9_kxQ6Mzg_p-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LYe7YNyif9_kxQ6Mzg_p-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYe7YNyif9_kxQ6Mzg_p-10" target="LYe7YNyif9_kxQ6Mzg_p-28" edge="1">
+        <mxCell id="LYe7YNyif9_kxQ6Mzg_p-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LYe7YNyif9_kxQ6Mzg_p-10" target="LYe7YNyif9_kxQ6Mzg_p-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="300" y="360" />
               <mxPoint x="300" y="380" />
               <mxPoint x="250" y="380" />
             </Array>
@@ -96,7 +97,7 @@
             <Array as="points">
               <mxPoint x="340" y="240" />
               <mxPoint x="290" y="240" />
-              <mxPoint x="250" y="240" />
+              <mxPoint x="230" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>

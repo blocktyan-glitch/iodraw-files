@@ -39,12 +39,11 @@
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-10" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;信息发布&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="260" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LYe7YNyif9_kxQ6Mzg_p-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LYe7YNyif9_kxQ6Mzg_p-13" target="LYe7YNyif9_kxQ6Mzg_p-33" edge="1">
+        <mxCell id="LYe7YNyif9_kxQ6Mzg_p-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LYe7YNyif9_kxQ6Mzg_p-13" target="LYe7YNyif9_kxQ6Mzg_p-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="380" />
               <mxPoint x="410" y="380" />
-              <mxPoint x="410" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>

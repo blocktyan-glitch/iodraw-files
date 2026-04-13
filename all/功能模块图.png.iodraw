@@ -168,7 +168,7 @@
           <mxGeometry x="230" y="400" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-29" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;寻物发布&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="400" width="40" height="100" as="geometry" />
+          <mxGeometry x="295" y="400" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-30" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;通知中心&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="260" width="40" height="100" as="geometry" />
@@ -184,7 +184,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-32" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;提交认领申请&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="400" width="40" height="100" as="geometry" />
+          <mxGeometry x="345" y="400" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-33" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;确认申请&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="400" width="40" height="100" as="geometry" />

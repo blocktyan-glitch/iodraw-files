@@ -190,7 +190,7 @@
           <mxGeometry x="410" y="400" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-34" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;系统通知&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="400" width="40" height="100" as="geometry" />
+          <mxGeometry x="463" y="400" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-35" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;智能匹配通知&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="400" width="40" height="100" as="geometry" />
@@ -201,7 +201,7 @@
             <mxPoint x="560" y="370" as="targetPoint" />
             <Array as="points">
               <mxPoint x="510" y="380" />
-              <mxPoint x="490" y="380" />
+              <mxPoint x="480" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>

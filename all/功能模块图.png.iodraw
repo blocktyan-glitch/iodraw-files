@@ -28,14 +28,6 @@
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYe7YNyif9_kxQ6Mzg_p-10" target="LYe7YNyif9_kxQ6Mzg_p-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LYe7YNyif9_kxQ6Mzg_p-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYe7YNyif9_kxQ6Mzg_p-10" target="LYe7YNyif9_kxQ6Mzg_p-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="290" y="380" />
-              <mxPoint x="250" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-10" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;信息发布&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="260" width="40" height="100" as="geometry" />
         </mxCell>
@@ -157,10 +149,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-28" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;失物招领&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="400" width="40" height="100" as="geometry" />
+          <mxGeometry x="240" y="400" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-29" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;寻物发布&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="400" width="40" height="100" as="geometry" />
+          <mxGeometry x="300" y="400" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-30" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;通知中心&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="260" width="40" height="100" as="geometry" />

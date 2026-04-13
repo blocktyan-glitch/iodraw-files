@@ -168,7 +168,7 @@
           <mxGeometry x="230" y="400" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-29" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;寻物发布&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="400" width="40" height="100" as="geometry" />
+          <mxGeometry x="290" y="400" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-30" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;通知中心&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="260" width="40" height="100" as="geometry" />
@@ -184,16 +184,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-32" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;提交认领申请&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="400" width="40" height="100" as="geometry" />
+          <mxGeometry x="350" y="400" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-33" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;确认申请&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="400" width="40" height="100" as="geometry" />
+          <mxGeometry x="410" y="400" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-34" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;系统通知&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="400" width="40" height="100" as="geometry" />
+          <mxGeometry x="470" y="400" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-35" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;智能匹配通知&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="400" width="40" height="100" as="geometry" />
+          <mxGeometry x="530" y="400" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LYe7YNyif9_kxQ6Mzg_p-30" target="LYe7YNyif9_kxQ6Mzg_p-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

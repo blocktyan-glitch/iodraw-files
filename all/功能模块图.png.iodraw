@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-10" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;信息发布&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="260" width="40" height="100" as="geometry" />
+          <mxGeometry x="280" y="260" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LYe7YNyif9_kxQ6Mzg_p-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LYe7YNyif9_kxQ6Mzg_p-13" target="LYe7YNyif9_kxQ6Mzg_p-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -116,7 +116,7 @@
             <mxPoint x="440" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="340" y="240" />
-              <mxPoint x="310" y="240" />
+              <mxPoint x="300" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>

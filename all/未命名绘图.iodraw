@@ -40,13 +40,6 @@
         <mxCell id="oHsQKjehDqWM2l9mzwmW-15" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="291" y="832.74" width="56" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-22" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.22;entryY=-0.01;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="73.00235955056179" y="230.00022471910114" as="sourcePoint" />
-            <mxPoint x="58.06647058823536" y="730.68" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-29" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="oHsQKjehDqWM2l9mzwmW-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">

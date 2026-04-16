@@ -23,10 +23,10 @@
           <mxGeometry x="137" y="400" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-8" value="输入账号与密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="137" y="530" width="125" height="49" as="geometry" />
+          <mxGeometry x="137" y="470" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-10" value="验证结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="137" y="610" width="125" height="60" as="geometry" />
+          <mxGeometry x="137" y="540" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-11" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="530" width="125" height="49" as="geometry" />

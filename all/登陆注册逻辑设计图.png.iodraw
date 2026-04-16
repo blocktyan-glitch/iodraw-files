@@ -7,8 +7,8 @@
         <mxCell id="oHsQKjehDqWM2l9mzwmW-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="171.5" y="50" width="56" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-2" value="点击系统首页&quot;快速发布&quot;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="134.5" y="100" width="135" height="40" as="geometry" />
+        <mxCell id="oHsQKjehDqWM2l9mzwmW-2" value="进入系统欢迎页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="137" y="100" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-3" value="是否已有账号?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="137" y="160" width="125" height="60" as="geometry" />
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-6" value="提交注册并保存至数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="129.5" y="320" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-7" target="oHsQKjehDqWM2l9mzwmW-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-7" value="进入登录页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="137" y="380" width="125" height="40" as="geometry" />

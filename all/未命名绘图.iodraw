@@ -11,7 +11,7 @@
           <mxGeometry x="142" y="100" width="116" height="43" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-3" value="是否已有账号?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="124" y="203" width="151" height="151" as="geometry" />
+          <mxGeometry x="124" y="203" width="151" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-4" value="进入注册页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="209" y="428" width="156" height="49" as="geometry" />

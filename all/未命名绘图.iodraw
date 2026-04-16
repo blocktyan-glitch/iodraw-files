@@ -35,32 +35,10 @@
           <mxGeometry x="344" y="733.74" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-14" value="跳转至后台管理界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="10" y="660" width="204" height="49" as="geometry" />
+          <mxGeometry x="10" y="660" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-15" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="291" y="832.74" width="56" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-29" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="oHsQKjehDqWM2l9mzwmW-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="446" y="696.74" />
-            </Array>
-            <mxPoint x="358.23684210526335" y="620.0031578947367" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0.23;rounded=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-13" target="oHsQKjehDqWM2l9mzwmW-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="446" y="807.74" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.23;rounded=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-14" target="oHsQKjehDqWM2l9mzwmW-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="192" y="807.74" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-10" target="oHsQKjehDqWM2l9mzwmW-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

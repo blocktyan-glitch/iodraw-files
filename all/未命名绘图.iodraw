@@ -20,7 +20,7 @@
           <mxGeometry x="120" y="380" width="160" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-6" value="提交注册并保存至数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="82" y="490" width="125" height="49" as="geometry" />
+          <mxGeometry x="137" y="490" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-7" value="进入登录页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="122" y="743" width="156" height="49" as="geometry" />

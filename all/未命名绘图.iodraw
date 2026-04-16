@@ -11,10 +11,10 @@
           <mxGeometry x="137" y="100" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-3" value="是否已有账号?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="137" y="190" width="125" height="60" as="geometry" />
+          <mxGeometry x="137" y="170" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-4" value="进入注册页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="137" y="290" width="125" height="49" as="geometry" />
+          <mxGeometry x="137" y="260" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-6" value="提交注册并保存至数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="129.5" y="370" width="140" height="49" as="geometry" />

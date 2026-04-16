@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="SqOVMfA8D6NJl0L-xmN3">
-    <mxGraphModel dx="1483" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,10 +29,7 @@
           <mxGeometry x="137" y="610" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-11" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1278" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-12" value="账号身份角色?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="226" y="1226" width="151" height="151" as="geometry" />
+          <mxGeometry x="290" y="615.5" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-13" value="跳转至前端系统首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="327" y="1451" width="204" height="49" as="geometry" />
@@ -103,25 +100,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-28" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-10" target="oHsQKjehDqWM2l9mzwmW-12">
+        <mxCell id="oHsQKjehDqWM2l9mzwmW-28" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="302" y="1190" />
             </Array>
+            <mxPoint x="301.5" y="1226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-29" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-12" target="oHsQKjehDqWM2l9mzwmW-13">
+        <mxCell id="oHsQKjehDqWM2l9mzwmW-29" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="oHsQKjehDqWM2l9mzwmW-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="429" y="1414" />
             </Array>
+            <mxPoint x="341.23684210526335" y="1337.2631578947367" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-30" value="管理员" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-12" target="oHsQKjehDqWM2l9mzwmW-14">
+        <mxCell id="oHsQKjehDqWM2l9mzwmW-30" value="管理员" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="oHsQKjehDqWM2l9mzwmW-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="175" y="1414" />
             </Array>
+            <mxPoint x="261.7631578947369" y="1337.2631578947367" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0.23;rounded=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-13" target="oHsQKjehDqWM2l9mzwmW-15">

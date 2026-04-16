@@ -11,7 +11,7 @@
           <mxGeometry x="132" y="100" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-4" value="进入注册页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="137" y="248" width="125" height="40" as="geometry" />
+          <mxGeometry x="137" y="160" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-6" value="提交注册并保存至数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="129.5" y="310" width="140" height="40" as="geometry" />
@@ -94,21 +94,6 @@
             <Array as="points">
               <mxPoint x="373" y="390" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="oHsQKjehDqWM2l9mzwmW-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137" y="189" as="sourcePoint" />
-            <mxPoint x="90" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="90" y="190" />
-              <mxPoint x="90" y="390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-45" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oHsQKjehDqWM2l9mzwmW-44">
-          <mxGeometry x="-0.1162" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-10" target="oHsQKjehDqWM2l9mzwmW-14">

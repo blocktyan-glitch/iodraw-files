@@ -17,7 +17,7 @@
           <mxGeometry x="137" y="290" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-5" value="填写基础信息&#xa;(用户名、密码、联系方式等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="124.5" y="400" width="160" height="67" as="geometry" />
+          <mxGeometry x="120" y="380" width="160" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-6" value="提交注册并保存至数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="168" y="644" width="236" height="49" as="geometry" />

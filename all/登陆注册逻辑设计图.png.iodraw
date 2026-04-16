@@ -32,7 +32,7 @@
           <mxGeometry x="310" y="430" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-13" value="跳转至系统首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="227.5" y="585" width="125" height="40" as="geometry" />
+          <mxGeometry x="227.5" y="570" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-14" value="跳转至后台管理界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="46.5" y="585" width="125" height="40" as="geometry" />
@@ -144,7 +144,8 @@
             <mxPoint x="240" y="650" as="sourcePoint" />
             <mxPoint x="290" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="570" />
+              <mxPoint x="200" y="560" />
+              <mxPoint x="290" y="560" />
               <mxPoint x="290" y="570" />
             </Array>
           </mxGeometry>

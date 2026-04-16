@@ -25,9 +25,6 @@
         <mxCell id="oHsQKjehDqWM2l9mzwmW-8" value="输入账号与密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="137" y="530" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-9" value="后台身份验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="195" y="941" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-10" value="验证结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="217" y="1040" width="113" height="113" as="geometry" />
         </mxCell>
@@ -85,14 +82,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-8" target="oHsQKjehDqWM2l9mzwmW-9">
+        <mxCell id="oHsQKjehDqWM2l9mzwmW-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-8" target="oHsQKjehDqWM2l9mzwmW-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-9" target="oHsQKjehDqWM2l9mzwmW-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="273.0000000000002" y="989.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-26" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.6;entryY=-0.01;rounded=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-10" target="oHsQKjehDqWM2l9mzwmW-11">

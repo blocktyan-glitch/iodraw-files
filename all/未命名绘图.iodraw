@@ -17,7 +17,7 @@
           <mxGeometry x="137" y="290" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-6" value="提交注册并保存至数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="129.5" y="400" width="140" height="49" as="geometry" />
+          <mxGeometry x="129.5" y="370" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-7" value="进入登录页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="122" y="743" width="156" height="49" as="geometry" />
@@ -62,7 +62,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-4">
+        <mxCell id="oHsQKjehDqWM2l9mzwmW-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-4" target="oHsQKjehDqWM2l9mzwmW-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="200" y="380.0000000000001" as="targetPoint" />

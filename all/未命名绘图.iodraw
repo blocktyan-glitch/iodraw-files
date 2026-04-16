@@ -35,7 +35,7 @@
           <mxGeometry x="344" y="733.74" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-14" value="跳转至后台管理界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="10" y="660" width="125" height="49" as="geometry" />
+          <mxGeometry x="10" y="660" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-15" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="291" y="832.74" width="56" height="34" as="geometry" />

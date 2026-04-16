@@ -47,22 +47,6 @@
             <mxPoint x="58.06647058823536" y="730.68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=-0.01;entryX=0.12;entryY=0.99;rounded=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-11" target="oHsQKjehDqWM2l9mzwmW-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="79" y="1190" />
-              <mxPoint x="79" y="817" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-28" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="302" y="1190" />
-            </Array>
-            <mxPoint x="301.5" y="1226" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-29" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="oHsQKjehDqWM2l9mzwmW-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">

@@ -20,7 +20,7 @@
           <mxGeometry x="137" y="280" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-8" value="系统生成物品记录并持久化至MySQL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="137" y="340" width="135" height="40" as="geometry" />
+          <mxGeometry x="132" y="340" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-15" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="171.5" y="630" width="56" height="34" as="geometry" />
@@ -60,6 +60,9 @@
             <mxPoint x="210" y="450" as="sourcePoint" />
             <mxPoint x="199.5" y="489.9999999999999" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oHsQKjehDqWM2l9mzwmW-53" value="系统生成物品记录并持久化至MySQL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="132" y="510" width="135" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

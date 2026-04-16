@@ -23,7 +23,7 @@
           <mxGeometry x="132" y="340" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-15" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="171.5" y="630" width="56" height="34" as="geometry" />
+          <mxGeometry x="171.5" y="460" width="56" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-1" target="oHsQKjehDqWM2l9mzwmW-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -63,6 +63,12 @@
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-53" value="后台对物品特征进行提取与向量化处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="132" y="400" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oHsQKjehDqWM2l9mzwmW-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-53" target="oHsQKjehDqWM2l9mzwmW-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="560" as="sourcePoint" />
+            <mxPoint x="160" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

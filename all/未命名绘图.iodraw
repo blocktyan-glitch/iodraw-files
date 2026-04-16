@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="SqOVMfA8D6NJl0L-xmN3">
-    <mxGraphModel dx="1384" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="798" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry x="344" y="733.74" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-14" value="跳转至后台管理界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="733.74" width="204" height="49" as="geometry" />
+          <mxGeometry x="10" y="660" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-15" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="291" y="832.74" width="56" height="34" as="geometry" />
@@ -46,14 +46,6 @@
               <mxPoint x="446" y="696.74" />
             </Array>
             <mxPoint x="358.23684210526335" y="620.0031578947367" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-30" value="管理员" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="oHsQKjehDqWM2l9mzwmW-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="192" y="696.74" />
-            </Array>
-            <mxPoint x="278.7631578947369" y="620.0031578947367" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0.23;rounded=0;" edge="1" parent="1" source="oHsQKjehDqWM2l9mzwmW-13" target="oHsQKjehDqWM2l9mzwmW-15">

@@ -32,10 +32,10 @@
           <mxGeometry x="310" y="430" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-13" value="跳转至系统首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="227.5" y="570" width="125" height="40" as="geometry" />
+          <mxGeometry x="227.5" y="580" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-14" value="跳转至后台管理界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="46.5" y="570" width="125" height="40" as="geometry" />
+          <mxGeometry x="46.5" y="580" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-15" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="171.5" y="630" width="56" height="34" as="geometry" />

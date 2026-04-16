@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="SqOVMfA8D6NJl0L-xmN3">
-    <mxGraphModel dx="252" dy="326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="365" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,8 +13,8 @@
         <mxCell id="oHsQKjehDqWM2l9mzwmW-4" value="选择发布类型(寻物启事 / 失物招领)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="132" y="160" width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oHsQKjehDqWM2l9mzwmW-6" value="填写结构化表单\n(物品名称、描述、地点等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="129.5" y="220" width="135" height="40" as="geometry" />
+        <mxCell id="oHsQKjehDqWM2l9mzwmW-6" value="填写结构化表单(物品名称、描述、地点等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="132" y="220" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHsQKjehDqWM2l9mzwmW-7" value="进入登录页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="137" y="370" width="125" height="40" as="geometry" />

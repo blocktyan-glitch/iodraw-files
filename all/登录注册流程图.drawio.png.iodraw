@@ -124,7 +124,7 @@
             <mxPoint x="340" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-59" value="提交认领申请与证明材料" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="Ml6m7zqgoD6990JZs4Ij-59" value="解锁展示发布者联系方式" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="-20" y="310" width="140" height="40" as="geometry" />
         </mxCell>
       </root>

@@ -10,8 +10,8 @@
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-2" value="进入系统欢迎页" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="162.5" y="70" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-3" value="是否已有账号?" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="137.5" y="130" width="151" height="152" as="geometry" />
+        <mxCell id="Ml6m7zqgoD6990JZs4Ij-3" value="1" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="130" width="151" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-4" value="进入注册页面" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="212" y="428" width="156" height="49" as="geometry" />

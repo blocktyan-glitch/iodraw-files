@@ -89,7 +89,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-71" value="驳回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ml6m7zqgoD6990JZs4Ij-66">
+        <mxCell id="Ml6m7zqgoD6990JZs4Ij-71" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ml6m7zqgoD6990JZs4Ij-66">
           <mxGeometry x="0.123" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

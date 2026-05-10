@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-59" value="填写标题与正文并发布" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="120" y="275.66" width="140" height="40" as="geometry" />
+          <mxGeometry x="123" y="290" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-61" value="选择公告执行编辑、置顶或删除" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="290" width="150" height="40" as="geometry" />
@@ -68,6 +68,11 @@
             <Array as="points">
               <mxPoint x="190" y="240" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ml6m7zqgoD6990JZs4Ij-117" value="发布新公告" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ml6m7zqgoD6990JZs4Ij-94">
+          <mxGeometry x="0.5233" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-97" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">

@@ -464,7 +464,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rDcQ-xHQpsH8Bas-AGGS-11" value="角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="374" y="130" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

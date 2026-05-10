@@ -11,7 +11,7 @@
           <mxGeometry x="112.5" y="50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-3" value="发布者审核结果?" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="113" y="227.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="100" y="227.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-4" value="进入注册页面" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="113" y="297.5" width="100" height="40" as="geometry" />

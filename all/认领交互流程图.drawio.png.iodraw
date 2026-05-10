@@ -7,7 +7,7 @@
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="135" width="56" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-2" value="浏览发现疑似物品" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="Ml6m7zqgoD6990JZs4Ij-2" value="用户发布物品信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="112.5" y="50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-3" value="发布者审核结果?" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=宋体;" vertex="1" parent="1">
@@ -26,8 +26,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-55" value="提交认领申请与证明材料" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="93" y="110" width="140" height="40" as="geometry" />
+        <mxCell id="Ml6m7zqgoD6990JZs4Ij-55" value="系统提取特征文本" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="93" y="110" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-55" target="Ml6m7zqgoD6990JZs4Ij-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

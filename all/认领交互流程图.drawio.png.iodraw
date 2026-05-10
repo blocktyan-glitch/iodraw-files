@@ -48,7 +48,7 @@
           <mxGeometry x="-27.5" y="350.16" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-61" value="物品状态标记为已完成" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="-29.5" y="409.16" width="140" height="40" as="geometry" />
+          <mxGeometry x="-31.5" y="409.16" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-59" target="Ml6m7zqgoD6990JZs4Ij-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -61,7 +61,7 @@
             <mxPoint x="60" y="532.5" as="sourcePoint" />
             <mxPoint x="110" y="482.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="40" y="460" />
+              <mxPoint x="40" y="470" />
               <mxPoint x="163" y="460" />
             </Array>
           </mxGeometry>

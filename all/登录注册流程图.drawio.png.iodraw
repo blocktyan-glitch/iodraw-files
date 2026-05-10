@@ -7,7 +7,7 @@
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="135" width="56" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-2" value="进入系统欢迎页" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="Ml6m7zqgoD6990JZs4Ij-2" value="浏览发现疑似物品" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="112.5" y="50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-3" value="是否已有账号?" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=宋体;" vertex="1" parent="1">

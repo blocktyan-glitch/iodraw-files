@@ -125,7 +125,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-59" value="解锁展示发布者联系方式" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="310" width="140" height="40" as="geometry" />
+          <mxGeometry y="300" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ml6m7zqgoD6990JZs4Ij-61" value="物品状态标记为已完成" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="430" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -29,7 +29,7 @@
           <mxGeometry x="163" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-9" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="390" y="510" width="100" height="40" as="geometry" />
+          <mxGeometry x="282.5" y="510" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-10" value="跳转至系统首页" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="50" y="510" width="100" height="40" as="geometry" />
@@ -129,6 +129,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="450" as="sourcePoint" />
             <mxPoint x="380" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="333" y="340" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>

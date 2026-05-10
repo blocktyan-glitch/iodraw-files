@@ -35,10 +35,10 @@
             <mxPoint x="303" y="219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-59" value="解锁展示发布者联系方式" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="Ml6m7zqgoD6990JZs4Ij-59" value="填写标题与正文并发布" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="120" y="275.66" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-61" value="物品状态标记为已完成" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="Ml6m7zqgoD6990JZs4Ij-61" value="选择公告执行编辑、置顶或删除" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="120" y="334.66" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-59" target="Ml6m7zqgoD6990JZs4Ij-61">

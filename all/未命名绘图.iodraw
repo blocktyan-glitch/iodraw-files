@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="SqOVMfA8D6NJl0L-xmN3">
-    <mxGraphModel dx="1098" dy="148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,14 +91,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-23" value="用户" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=宋体;strokeWidth=1;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-8" target="Ml6m7zqgoD6990JZs4Ij-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-24" value="管理员" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=宋体;strokeWidth=1;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-8" target="Ml6m7zqgoD6990JZs4Ij-11">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.3335" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.21;rounded=0;fontFamily=宋体;strokeWidth=1;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-10" target="Ml6m7zqgoD6990JZs4Ij-12">

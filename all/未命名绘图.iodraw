@@ -29,7 +29,7 @@
           <mxGeometry x="163" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-9" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="686" width="156" height="49" as="geometry" />
+          <mxGeometry x="-90" y="686" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-10" value="跳转至系统首页" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="282.5" y="510" width="100" height="40" as="geometry" />
@@ -135,7 +135,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ml6m7zqgoD6990JZs4Ij-30">
+        <mxCell id="Ml6m7zqgoD6990JZs4Ij-31" value="用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ml6m7zqgoD6990JZs4Ij-30">
           <mxGeometry x="-0.4389" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

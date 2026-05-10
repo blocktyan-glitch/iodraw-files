@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="SqOVMfA8D6NJl0L-xmN3">
-    <mxGraphModel dx="1258" dy="2414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="692" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,86 +24,6 @@
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;strokeWidth=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-2" target="Ml6m7zqgoD6990JZs4Ij-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-37" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="545" width="56" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-38" value="浏览发现疑似物品" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="479" y="84" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-39" value="提交认领申请与证明材料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="455" y="183" width="236" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-40" value="等待发布者审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="487" y="282" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-41" value="发布者审核结果?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="490" y="381" width="167" height="167" as="geometry" />
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-42" value="解锁展示发布者联系方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="607.5" width="236" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-43" value="物品状态标记为已完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="721" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-44" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="545" y="820" width="56" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-45" value="向申请人发送驳回通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="598" y="721" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-37" target="Ml6m7zqgoD6990JZs4Ij-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-38" target="Ml6m7zqgoD6990JZs4Ij-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-39" target="Ml6m7zqgoD6990JZs4Ij-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-40" target="Ml6m7zqgoD6990JZs4Ij-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-50" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-41" target="Ml6m7zqgoD6990JZs4Ij-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="438" y="585" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-42" target="Ml6m7zqgoD6990JZs4Ij-43">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.01;entryY=0.25;rounded=0;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-43" target="Ml6m7zqgoD6990JZs4Ij-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="438" y="795" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-53" value="驳回" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-41" target="Ml6m7zqgoD6990JZs4Ij-45">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="708" y="585" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ml6m7zqgoD6990JZs4Ij-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.25;rounded=0;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-45" target="Ml6m7zqgoD6990JZs4Ij-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="708" y="795" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-55" value="提交认领申请与证明材料" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">

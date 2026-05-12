@@ -142,7 +142,7 @@
           <mxGeometry x="935.5" y="1010" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-67" value="可修改后重新提交" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1205" width="188" height="49" as="geometry" />
+          <mxGeometry x="760" y="1169" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-68" value="解锁发布者联系方式" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1011" y="1539" width="204" height="49" as="geometry" />
@@ -241,8 +241,7 @@
         <mxCell id="oPSpS7OYDOydfK6toBSP-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=0.01;entryX=0.08;entryY=1;rounded=0;strokeWidth=1;fontFamily=宋体;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-67" target="oPSpS7OYDOydfK6toBSP-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="844" y="1503" />
-              <mxPoint x="844" y="1328" />
+              <mxPoint x="770" y="1020" />
             </Array>
           </mxGeometry>
         </mxCell>

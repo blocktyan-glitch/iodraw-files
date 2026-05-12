@@ -145,7 +145,7 @@
           <mxGeometry x="820" y="1090" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-68" value="解锁发布者联系方式" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="962" y="1090" width="130" height="40" as="geometry" />
+          <mxGeometry x="962" y="1090" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-69" value="个人中心" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="398" y="1254" width="124" height="49" as="geometry" />
@@ -302,9 +302,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oPSpS7OYDOydfK6toBSP-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.51;entryY=0.01;rounded=0;strokeWidth=1;fontFamily=宋体;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-68" target="oPSpS7OYDOydfK6toBSP-74">
+        <mxCell id="oPSpS7OYDOydfK6toBSP-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;rounded=0;strokeWidth=1;fontFamily=宋体;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1000" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.01;entryY=0.48;rounded=0;strokeWidth=1;fontFamily=宋体;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-73" target="oPSpS7OYDOydfK6toBSP-74">

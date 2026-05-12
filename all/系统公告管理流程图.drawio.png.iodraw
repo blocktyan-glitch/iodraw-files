@@ -136,7 +136,7 @@
           <mxGeometry x="920" y="870" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-65" value="等待发布者审核" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="904.5" y="940" width="172" height="49" as="geometry" />
+          <mxGeometry x="940" y="940" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-66" value="审核结果" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1024" y="1353" width="113" height="113" as="geometry" />

@@ -112,7 +112,7 @@
           <mxGeometry x="935" y="640" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-57" value="填写物品信息&#xa;(名称/地点/描述/图片)" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="690" width="140" height="67" as="geometry" />
+          <mxGeometry x="1180" y="626.5" width="140" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-58" value="系统生成特征向量" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1225" y="780" width="110" height="40" as="geometry" />
@@ -295,13 +295,11 @@
         <mxCell id="oPSpS7OYDOydfK6toBSP-104" value="物品找回" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1028" y="1265" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oPSpS7OYDOydfK6toBSP-105" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-56" target="oPSpS7OYDOydfK6toBSP-57">
+        <mxCell id="oPSpS7OYDOydfK6toBSP-105" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-56" target="oPSpS7OYDOydfK6toBSP-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1110" y="700" as="sourcePoint" />
             <mxPoint x="1160" y="650" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1210" y="660" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-106" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;发布信息&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oPSpS7OYDOydfK6toBSP-105">

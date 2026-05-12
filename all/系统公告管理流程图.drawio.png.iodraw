@@ -154,7 +154,7 @@
           <mxGeometry x="785" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-71" value="查看认领申请状态" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="660" y="800" width="110" height="40" as="geometry" />
+          <mxGeometry x="660" y="870" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-72" value="修改个人信息/密码" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="530" y="800" width="110" height="40" as="geometry" />

@@ -127,7 +127,7 @@
           <mxGeometry x="1271" y="1539" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-62" value="查看失物/招领列表" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="892" y="939" width="197" height="49" as="geometry" />
+          <mxGeometry x="920.5" y="730" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-63" value="点击认领" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="928" y="1047" width="124" height="49" as="geometry" />

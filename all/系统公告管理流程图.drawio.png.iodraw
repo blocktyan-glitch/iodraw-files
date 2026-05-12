@@ -323,7 +323,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-104" value="物品找回" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="962" y="1155" width="120" height="40" as="geometry" />
+          <mxGeometry x="962" y="1155" width="109" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

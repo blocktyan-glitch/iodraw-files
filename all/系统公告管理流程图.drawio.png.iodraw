@@ -352,6 +352,12 @@
         <mxCell id="oPSpS7OYDOydfK6toBSP-115" value="是否为用户丢失物品" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1180" y="989" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="oPSpS7OYDOydfK6toBSP-116" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="1090" as="sourcePoint" />
+            <mxPoint x="1190" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

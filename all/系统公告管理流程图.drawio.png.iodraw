@@ -112,10 +112,10 @@
           <mxGeometry x="935" y="640" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-57" value="填写物品信息&#xa;(名称/地点/描述/图片)" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="730" width="140" height="67" as="geometry" />
+          <mxGeometry x="1141" y="690" width="140" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-58" value="系统生成特征向量" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="1156" y="830" width="110" height="40" as="geometry" />
+          <mxGeometry x="1156" y="780" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-59" value="系统进行AI智能匹配" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1151" y="900" width="120" height="40" as="geometry" />

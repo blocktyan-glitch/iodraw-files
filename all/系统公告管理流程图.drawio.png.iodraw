@@ -115,10 +115,10 @@
           <mxGeometry x="1180" y="636.5" width="140" height="47" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-58" value="系统生成特征向量" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="780" width="110" height="40" as="geometry" />
+          <mxGeometry x="1195" y="710" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-59" value="系统进行AI智能匹配" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="850" width="120" height="40" as="geometry" />
+          <mxGeometry x="1190" y="780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-60" value="发送匹配通知" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1225" y="920" width="110" height="40" as="geometry" />

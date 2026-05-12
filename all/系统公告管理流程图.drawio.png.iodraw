@@ -7,6 +7,9 @@
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="275" y="50" width="56" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="oPSpS7OYDOydfK6toBSP-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ml6m7zqgoD6990JZs4Ij-2" target="Ml6m7zqgoD6990JZs4Ij-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ml6m7zqgoD6990JZs4Ij-2" value="进入系统公告管理页面" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="240.5" y="100" width="125" height="40" as="geometry" />
         </mxCell>
@@ -100,7 +103,7 @@
           <mxGeometry x="962" y="470" width="56" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-54" value="用户登录" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="928" y="554" width="124" height="49" as="geometry" />
+          <mxGeometry x="928" y="554" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-55" value="进入系统首页" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="912" y="653" width="156" height="49" as="geometry" />

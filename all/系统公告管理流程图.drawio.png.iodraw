@@ -136,16 +136,16 @@
           <mxGeometry x="920" y="1054" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-65" value="等待发布者审核" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="935" y="1124" width="110" height="40" as="geometry" />
+          <mxGeometry x="935" y="1114" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-66" value="审核结果" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="935.5" y="1194" width="110" height="40" as="geometry" />
+          <mxGeometry x="935.5" y="1184" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-67" value="可修改后重新提交" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1274" width="110" height="40" as="geometry" />
+          <mxGeometry x="840" y="1264" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-68" value="解锁发布者联系方式" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="1018" y="1274" width="120" height="40" as="geometry" />
+          <mxGeometry x="1018" y="1264" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-69" value="个人中心" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="665" y="710" width="100" height="40" as="geometry" />
@@ -229,7 +229,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-104" value="物品找回" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="1028" y="1339" width="100" height="40" as="geometry" />
+          <mxGeometry x="1028" y="1329" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-105" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-56" target="oPSpS7OYDOydfK6toBSP-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -245,10 +245,10 @@
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-107" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-66" target="oPSpS7OYDOydfK6toBSP-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1060" y="1274" as="sourcePoint" />
-            <mxPoint x="1110" y="1224" as="targetPoint" />
+            <mxPoint x="1060" y="1264" as="sourcePoint" />
+            <mxPoint x="1110" y="1214" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1078" y="1214" />
+              <mxPoint x="1078" y="1204" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -259,28 +259,28 @@
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-109" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;驳回&lt;/span&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-66" target="oPSpS7OYDOydfK6toBSP-67">
           <mxGeometry x="0.204" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="980" y="1244" as="sourcePoint" />
-            <mxPoint x="1030" y="1194" as="targetPoint" />
+            <mxPoint x="980" y="1234" as="sourcePoint" />
+            <mxPoint x="1030" y="1184" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="895" y="1214" />
+              <mxPoint x="895" y="1204" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-110" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-67" target="oPSpS7OYDOydfK6toBSP-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="837" y="1304" as="sourcePoint" />
-            <mxPoint x="932" y="1154" as="targetPoint" />
+            <mxPoint x="837" y="1294" as="sourcePoint" />
+            <mxPoint x="932" y="1144" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="827" y="1294" />
-              <mxPoint x="827" y="1144" />
+              <mxPoint x="827" y="1284" />
+              <mxPoint x="827" y="1134" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-112" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-68" target="oPSpS7OYDOydfK6toBSP-104">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="940" y="1394" as="sourcePoint" />
-            <mxPoint x="1070" y="1344" as="targetPoint" />
+            <mxPoint x="940" y="1384" as="sourcePoint" />
+            <mxPoint x="1070" y="1334" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>

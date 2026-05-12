@@ -350,7 +350,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-115" value="是否为用户丢失物品" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="1195" y="994" width="120" height="40" as="geometry" />
+          <mxGeometry x="1195" y="994" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

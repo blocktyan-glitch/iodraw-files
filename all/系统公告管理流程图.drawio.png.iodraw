@@ -358,6 +358,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="oPSpS7OYDOydfK6toBSP-127" value="修改个人信息/密码" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="660" y="960" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -160,7 +160,7 @@
           <mxGeometry x="530" y="870" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-75" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1450" width="56" height="34" as="geometry" />
+          <mxGeometry x="1050" y="1410" width="56" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;fontFamily=宋体;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-53" target="oPSpS7OYDOydfK6toBSP-54">
           <mxGeometry relative="1" as="geometry">
@@ -391,7 +391,7 @@
             <mxPoint x="630" y="1370" as="sourcePoint" />
             <mxPoint x="920" y="1460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="710" y="1410" />
+              <mxPoint x="715" y="1362" />
             </Array>
           </mxGeometry>
         </mxCell>

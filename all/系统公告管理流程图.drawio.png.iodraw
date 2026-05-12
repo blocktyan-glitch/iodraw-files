@@ -398,9 +398,22 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="1130" as="sourcePoint" />
             <mxPoint x="550" y="1270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="580" y="1120" />
-            </Array>
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPSpS7OYDOydfK6toBSP-134" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oPSpS7OYDOydfK6toBSP-133">
+          <mxGeometry x="0.5664" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPSpS7OYDOydfK6toBSP-135" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oPSpS7OYDOydfK6toBSP-133">
+          <mxGeometry x="-0.3743" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPSpS7OYDOydfK6toBSP-136" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oPSpS7OYDOydfK6toBSP-133">
+          <mxGeometry x="0.1367" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

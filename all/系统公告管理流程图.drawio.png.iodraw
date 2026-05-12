@@ -121,7 +121,7 @@
           <mxGeometry x="1151" y="900" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-60" value="发送匹配通知" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="1133" y="970" width="156" height="40" as="geometry" />
+          <mxGeometry x="1156" y="970" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-61" value="用户查看通知中心" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1271" y="1539" width="188" height="49" as="geometry" />

@@ -121,10 +121,10 @@
           <mxGeometry x="1190" y="780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-60" value="发送匹配通知" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="920" width="110" height="40" as="geometry" />
+          <mxGeometry x="1195" y="850" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-61" value="用户查看通知中心" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="990" width="110" height="40" as="geometry" />
+          <mxGeometry x="1195" y="920" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-62" value="查看失物/招领列表" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="920.5" y="730" width="140" height="40" as="geometry" />

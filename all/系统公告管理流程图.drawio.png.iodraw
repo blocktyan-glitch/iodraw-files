@@ -228,7 +228,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oPSpS7OYDOydfK6toBSP-89" value="需修改" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.69;entryY=0.01;rounded=0;strokeWidth=1;fontFamily=宋体;exitDx=0;exitDy=0;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-66" target="oPSpS7OYDOydfK6toBSP-67">
+        <mxCell id="oPSpS7OYDOydfK6toBSP-89" value="驳回" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.69;entryY=0.01;rounded=0;strokeWidth=1;fontFamily=宋体;exitDx=0;exitDy=0;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-66" target="oPSpS7OYDOydfK6toBSP-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -341,6 +341,12 @@
         <mxCell id="oPSpS7OYDOydfK6toBSP-108" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;通过&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oPSpS7OYDOydfK6toBSP-107">
           <mxGeometry x="-0.1682" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPSpS7OYDOydfK6toBSP-109" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="1060" as="sourcePoint" />
+            <mxPoint x="1030" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

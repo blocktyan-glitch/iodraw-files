@@ -395,7 +395,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oPSpS7OYDOydfK6toBSP-139" value="进入系统首页" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="oPSpS7OYDOydfK6toBSP-139" value="返回系统首页" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1028" y="1430" width="100" height="40" as="geometry" />
         </mxCell>
       </root>

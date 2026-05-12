@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="SqOVMfA8D6NJl0L-xmN3">
-    <mxGraphModel dx="1481" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,13 +148,13 @@
           <mxGeometry x="1018" y="1274" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-69" value="个人中心" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="710" y="710" width="100" height="40" as="geometry" />
+          <mxGeometry x="680" y="710" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-70" value="管理自己发布的信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-71" value="查看认领申请状态" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="436" y="918.05" width="110" height="40" as="geometry" />
+          <mxGeometry x="690" y="800" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-72" value="修改个人信息/密码" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="263" y="920" width="110" height="40" as="geometry" />
@@ -220,25 +220,6 @@
         <mxCell id="oPSpS7OYDOydfK6toBSP-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;fontFamily=宋体;exitDx=0;exitDy=0;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-65" target="oPSpS7OYDOydfK6toBSP-66">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oPSpS7OYDOydfK6toBSP-93" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.75;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;fontFamily=宋体;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-69" target="oPSpS7OYDOydfK6toBSP-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="777" y="861.05" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oPSpS7OYDOydfK6toBSP-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;fontFamily=宋体;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-69" target="oPSpS7OYDOydfK6toBSP-71">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oPSpS7OYDOydfK6toBSP-95" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;fontFamily=宋体;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-69" target="oPSpS7OYDOydfK6toBSP-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="288" y="861.05" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0.37;rounded=0;strokeWidth=1;fontFamily=宋体;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-70">
@@ -363,7 +344,7 @@
             <mxPoint x="640" y="740" as="sourcePoint" />
             <mxPoint x="690" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="760" y="660" />
+              <mxPoint x="730" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>

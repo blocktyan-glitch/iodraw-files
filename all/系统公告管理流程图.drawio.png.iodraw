@@ -157,7 +157,7 @@
           <mxGeometry x="436" y="918.05" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-72" value="修改个人信息/密码" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="190" y="918.05" width="196" height="49" as="geometry" />
+          <mxGeometry x="190" y="918.05" width="196" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-75" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1050" y="1445.5" width="56" height="34" as="geometry" />

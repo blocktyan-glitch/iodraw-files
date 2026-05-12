@@ -148,7 +148,7 @@
           <mxGeometry x="1018" y="1274" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-69" value="个人中心" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="468" y="787.05" width="100" height="40" as="geometry" />
+          <mxGeometry x="710" y="710" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-70" value="管理自己发布的信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="675" y="918.05" width="204" height="49" as="geometry" />

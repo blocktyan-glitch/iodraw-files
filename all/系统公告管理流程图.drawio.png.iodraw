@@ -145,7 +145,7 @@
           <mxGeometry x="820" y="1090" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-68" value="解锁发布者联系方式" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="962" y="1090" width="204" height="49" as="geometry" />
+          <mxGeometry x="962" y="1090" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-69" value="个人中心" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="398" y="1254" width="124" height="49" as="geometry" />

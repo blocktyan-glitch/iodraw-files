@@ -157,7 +157,7 @@
           <mxGeometry x="660" y="800" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-72" value="修改个人信息/密码" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="263" y="920" width="110" height="40" as="geometry" />
+          <mxGeometry x="530" y="800" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-75" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1050" y="1445.5" width="56" height="34" as="geometry" />
@@ -352,6 +352,9 @@
           <mxGeometry x="-0.4803" y="-4" relative="1" as="geometry">
             <mxPoint x="6" y="4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oPSpS7OYDOydfK6toBSP-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oPSpS7OYDOydfK6toBSP-71" target="oPSpS7OYDOydfK6toBSP-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

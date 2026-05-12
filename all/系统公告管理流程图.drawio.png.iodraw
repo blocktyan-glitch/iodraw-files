@@ -130,10 +130,10 @@
           <mxGeometry x="920.5" y="730" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-63" value="点击认领" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="928" y="1047" width="100" height="40" as="geometry" />
+          <mxGeometry x="940" y="800" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-64" value="填写特征描述/上传证明" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="876" y="1155" width="228" height="49" as="geometry" />
+          <mxGeometry x="876.5" y="880" width="228" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oPSpS7OYDOydfK6toBSP-65" value="等待发布者审核" style="whiteSpace=wrap;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="904" y="1254" width="172" height="49" as="geometry" />
